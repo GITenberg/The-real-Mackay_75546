@@ -1,0 +1,30 @@
+_repo: The-real-Mackay_75546
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mackenzie, Donald A. (Donald Alexander)
+    alias: Mackenzie, Donald Alexander
+    birthdate: 1873
+    deathdate: 1936
+    gutenberg_agent_id: '3303'
+    url: http://www.gutenberg.org/2009/agents/3303
+    wikipedia: https://en.wikipedia.org/wiki/Donald_Alexander_Mackenzie
+description: ''
+gutenberg_issued: '2025-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75546'
+language: en
+pgterms:marc904: https://digital.nls.uk/81563845
+pgterms:marc905: 20250107003636mackenzie
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: Carol Brown, Mairi and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (National Library of Scotland)
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The real Mackay
+url: http://www.gutenberg.org/ebooks/75546
