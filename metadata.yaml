@@ -1,5 +1,8 @@
 _repo: The-real-Mackay_75546
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75546-h/images/cover.jpg
 creator:
   author:
     agent_name: Mackenzie, Donald A. (Donald Alexander)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3303
     wikipedia: https://en.wikipedia.org/wiki/Donald_Alexander_Mackenzie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75546#The-real-Mackay
 gutenberg_issued: '2025-03-06'
 gutenberg_type: Text
 identifiers:
